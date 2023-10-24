@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "belajar-golang-viper",
+    "version": "1.0.0",
+    "author": "Misno Sugianto"
+  },
+  "database": {
+    "show_sql": true,
+    "host": "127.0.0.1",
+    "port": 3306
+  }
+}
